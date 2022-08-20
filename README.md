@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently learning ...
 -         Bacholor of Science in Software Development (Expected Graduation Dec 2022)
--         I am also still working to better understand the .NET framework so I am currently doing a
-          practice project in C#
+-         C# .NET, C++ and Python
 -         
 - 💞️ I’m looking to collaborate on ...
 -         Anything, I love to browse Git and StackOverflow to look at others code and try and assist
