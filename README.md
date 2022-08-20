@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ookami-Imakoo
 - 
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... 
           Anything to do with Computers (Software Development, Video Games, Crypto, Metavers and to
           many more to name here)
           Im also a die hard Blues fan, but will chit chat about any NHL team that isnt from Chicago
