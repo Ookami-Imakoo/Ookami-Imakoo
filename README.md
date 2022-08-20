@@ -1,16 +1,21 @@
 - 👋 Hi, I’m @Ookami-Imakoo
 - 
 - 👀 I’m interested in ...
-          Anything to do with Computers (Software Development, Video Games, Crypto, Metavers and to many more to name here)
-          Im also a die hard Blues fan, but will chit chat about any NHL team that isnt from Chicago (This rule extends to any sport).
-          I love movies, little known fact (translation: ill tell anyone who will listen) is that I actually went to film school once apon a time. 
+          Anything to do with Computers (Software Development, Video Games, Crypto, Metavers and to
+          many more to name here)
+          Im also a die hard Blues fan, but will chit chat about any NHL team that isnt from Chicago
+          (This rule extends to any sport).
+          I love movies, little known fact (translation: ill tell anyone who will listen) is that I 
+          actually went to film school once apon a time. 
 
 - 🌱 I’m currently learning ...
 -         Bacholor of Science in Software Development (Expected Graduation Dec 2022)
--         I am also still working to better understand the .NET framework so I am currently doing a practice project in C#
+-         I am also still working to better understand the .NET framework so I am currently doing a
+          practice project in C#
 -         
 - 💞️ I’m looking to collaborate on ...
--         Anything, I love to browse Git and StackOverflow to look at others code and try and assist with "my level" problems.
+-         Anything, I love to browse Git and StackOverflow to look at others code and try and assist
+          with "my level" problems.
 -         
 - 📫 How to reach me ...
 -         email: matthew.r.evans33@gmail.com
