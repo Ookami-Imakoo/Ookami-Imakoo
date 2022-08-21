@@ -14,7 +14,7 @@
 -         
 - 💞️ I’m looking to collaborate on ...
 -         Anything, I love to browse Git and StackOverflow to look at others code and try and assist
-          with "my level" problems.
+          with problems and comment on cool and interesting things.
 -         
 - 📫 How to reach me ...
 -         email: matthew.r.evans33@gmail.com
