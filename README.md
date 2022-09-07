@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ookami-Imakoo
 
 - 👀 I’m interested in ... 
-         This is a hard question to answer... only because I keep adding to the list, but 
+-        This is a hard question to answer... only because I keep adding to the list, but 
          I think the best way to explain it to people is that I just love technology, be 
          in software engenering, network engernering or Hardware im facinated by the lot. 
          I am still not 100% sure what I want to be, and I think thats ok.... because I 
