@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ookami-Imakoo
-- 
+
 - 👀 I’m interested in ... 
          This is a hard question to answer... only because I keep adding to the list, but 
          I think the best way to explain it to people is that I just love technology, be 
@@ -10,17 +10,17 @@
 
 - 🌱 I’m currently learning ...
 -         Bacholor of Science in Software Development (Expected Graduation Dec 2022)
--         
+      
 -         Proficent with:
 -         C#, C++ and Python
--
+
 -         Familure with:
 -         HTML, CSS, Javascript and Docker **Currently Learning**       
--         
+        
 - 💞️ I’m looking to collaborate on ...
 -         Anything, I love to browse Git and StackOverflow to look at others code and try and assist
           with problems and comment on cool and interesting things.
--         
+        
 - 📫 How to reach me ...
 -         email: matthew.r.evans33@gmail.com
 -         discord: Ookami#4448
