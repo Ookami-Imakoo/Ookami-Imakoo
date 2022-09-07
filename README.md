@@ -10,7 +10,12 @@
 
 - 🌱 I’m currently learning ...
 -         Bacholor of Science in Software Development (Expected Graduation Dec 2022)
--         C# .NET, C++ and Python
+-         
+-         Proficent with:
+-         C#, C++ and Python
+-
+-         Familure with:
+-         HTML, CSS, Javascript and Docker **Currently Learning**       
 -         
 - 💞️ I’m looking to collaborate on ...
 -         Anything, I love to browse Git and StackOverflow to look at others code and try and assist
