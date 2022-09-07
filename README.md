@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Ookami-Imakoo
 - 
 - 👀 I’m interested in ... 
-          Anything to do with Computers (Software Development, Video Games, Crypto, Metavers and to
-          many more to name here)
-          Im also a die hard Blues fan, but will chit chat about any NHL team that isnt from Chicago
-          (This rule extends to any sport).
-          I love movies, little known fact (translation: ill tell anyone who will listen) is that I 
-          actually went to film school once apon a time. 
+         This is a hard question to answer... only because I keep adding to the list, but 
+         I think the best way to explain it to people is that I just love technology, be 
+         in software engenering, network engernering or Hardware im facinated by the lot. 
+         I am still not 100% sure what I want to be, and I think thats ok.... because I 
+         wouldnt want to be tied down to just one thing anyway. I want to work with every 
+         technolgy i cant and become mroe proficient at the skills I already have. 
 
 - 🌱 I’m currently learning ...
 -         Bacholor of Science in Software Development (Expected Graduation Dec 2022)
